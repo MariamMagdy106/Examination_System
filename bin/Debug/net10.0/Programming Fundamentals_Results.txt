@@ -1,0 +1,114 @@
+=================================
+Exam: Programming Fundamentals
+Date: 3/6/2026 5:20:15 AM
+Exam Type: PracticeExam
+Total Marks: 15
+----------------------------
+Question: Q1
+Student Answer:
+1. True
+
+Correct Answer:
+1. True
+
+Marks Earned: 5
+----------------------------
+Question: Q2
+Student Answer:
+1. C#
+
+Correct Answer:
+1. C#
+
+Marks Earned: 5
+----------------------------
+Question: Q3
+Student Answer:
+1. C#
+3. Python
+
+Correct Answer:
+1. C#
+3. Python
+
+Marks Earned: 5
+=================================
+Final Grade: 15 / 15
+=================================
+
+=================================
+Exam: Programming Fundamentals
+Date: 3/6/2026 5:20:56 AM
+Exam Type: PracticeExam
+Total Marks: 15
+----------------------------
+Question: Q1
+Student Answer:
+1. True
+
+Correct Answer:
+1. True
+
+Marks Earned: 5
+----------------------------
+Question: Q2
+Student Answer:
+2. HTML
+
+Correct Answer:
+1. C#
+
+Marks Earned: 0
+----------------------------
+Question: Q3
+Student Answer:
+1. C#
+3. Python
+
+Correct Answer:
+1. C#
+3. Python
+
+Marks Earned: 5
+=================================
+Final Grade: 10 / 15
+=================================
+
+=================================
+Exam: Programming Fundamentals
+Date: 3/6/2026 5:55:01 AM
+Exam Type: PracticeExam
+Total Marks: 15
+----------------------------
+Question: Q1
+Student Answer:
+1. True
+
+Correct Answer:
+1. True
+
+Marks Earned: 5
+----------------------------
+Question: Q2
+Student Answer:
+1. C#
+
+Correct Answer:
+1. C#
+
+Marks Earned: 5
+----------------------------
+Question: Q3
+Student Answer:
+1. C#
+3. Python
+
+Correct Answer:
+1. C#
+3. Python
+
+Marks Earned: 5
+=================================
+Final Grade: 15 / 15
+=================================
+
